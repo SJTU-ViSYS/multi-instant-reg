@@ -20,7 +20,6 @@ cd cpp_wrappers
 sh build.sh 
 cd ..
 ```
-
 ### Run
 There are two commands to conduct the two experiments respectively in `run.sh`, you can choose which to run.
 
