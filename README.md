@@ -1,7 +1,11 @@
 # Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering
 This is the source code of our CVPR paper [Arxiv](https://arxiv.org/abs/2111.14582)
 
-Install Environment:
+**Install Environment:**
 `conda env create -f multiregister.yaml`
 
-Download the weight from here and put them into snapshot
+****
+`./synthetic&real` is the experiments of 
+
+`./rgbd` is the experiments of our own rgbd data.
+Download the weights and put them into `/snapshot`
