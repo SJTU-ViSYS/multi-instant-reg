@@ -14,10 +14,12 @@ Download the weights and put them into `./synthetic&real/snapshot`
 The Scan2CAD dataset may need to be downloaded on [Scan2CAD](https://github.com/skanti/Scan2CAD), we would upload a processed version for testing soon.
 
 ### Install pytorch extension:
-`cd ./synthetic&real 
+```
+cd ./synthetic&real 
 cd cpp_wrappers 
 sh build.sh 
-cd ..`
+cd ..
+```
 
 ### Run
 There are two commands to conduct the two experiments respectively in `run.sh`, you can choose which to run.
