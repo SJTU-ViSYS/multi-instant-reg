@@ -1,0 +1,287 @@
+0:
+  color:
+  - 0
+  - 0
+  - 0
+  name: empty
+  validation: false
+1:
+  color:
+  - 174
+  - 199
+  - 232
+  name: wall
+  validation: true
+2:
+  color:
+  - 152
+  - 223
+  - 138
+  name: floor
+  validation: true
+3:
+  color:
+  - 31
+  - 119
+  - 180
+  name: cabinet
+  validation: true
+4:
+  color:
+  - 255
+  - 187
+  - 120
+  name: bed
+  validation: true
+5:
+  color:
+  - 188
+  - 189
+  - 34
+  name: chair
+  validation: true
+6:
+  color:
+  - 140
+  - 86
+  - 75
+  name: sofa
+  validation: true
+7:
+  color:
+  - 255
+  - 152
+  - 150
+  name: table
+  validation: true
+8:
+  color:
+  - 214
+  - 39
+  - 40
+  name: door
+  validation: true
+9:
+  color:
+  - 197
+  - 176
+  - 213
+  name: window
+  validation: true
+10:
+  color:
+  - 148
+  - 103
+  - 189
+  name: bookshelf
+  validation: true
+11:
+  color:
+  - 196
+  - 156
+  - 148
+  name: picture
+  validation: true
+12:
+  color:
+  - 23
+  - 190
+  - 207
+  name: counter
+  validation: true
+13:
+  color:
+  - 178
+  - 76
+  - 76
+  name: blinds
+  validation: false
+14:
+  color:
+  - 247
+  - 182
+  - 210
+  name: desk
+  validation: true
+15:
+  color:
+  - 66
+  - 188
+  - 102
+  name: shelves
+  validation: false
+16:
+  color:
+  - 219
+  - 219
+  - 141
+  name: curtain
+  validation: true
+17:
+  color:
+  - 140
+  - 57
+  - 197
+  name: dresser
+  validation: false
+18:
+  color:
+  - 202
+  - 185
+  - 52
+  name: pillow
+  validation: false
+19:
+  color:
+  - 51
+  - 176
+  - 203
+  name: mirror
+  validation: false
+20:
+  color:
+  - 200
+  - 54
+  - 131
+  name: floor_mat
+  validation: false
+21:
+  color:
+  - 92
+  - 193
+  - 61
+  name: clothes
+  validation: false
+22:
+  color:
+  - 78
+  - 71
+  - 183
+  name: ceiling
+  validation: false
+23:
+  color:
+  - 172
+  - 114
+  - 82
+  name: books
+  validation: false
+24:
+  color:
+  - 255
+  - 127
+  - 14
+  name: refridgerator
+  validation: true
+25:
+  color:
+  - 91
+  - 163
+  - 138
+  name: television
+  validation: false
+26:
+  color:
+  - 153
+  - 98
+  - 156
+  name: paper
+  validation: false
+27:
+  color:
+  - 140
+  - 153
+  - 101
+  name: towel
+  validation: false
+28:
+  color:
+  - 158
+  - 218
+  - 229
+  name: shower_curtain
+  validation: true
+29:
+  color:
+  - 100
+  - 125
+  - 154
+  name: box
+  validation: false
+30:
+  color:
+  - 178
+  - 127
+  - 135
+  name: whiteboard
+  validation: false
+31:
+  color:
+  - 120
+  - 185
+  - 128
+  name: person
+  validation: false
+32:
+  color:
+  - 146
+  - 111
+  - 194
+  name: night_stand
+  validation: false
+33:
+  color:
+  - 44
+  - 160
+  - 44
+  name: toilet
+  validation: true
+34:
+  color:
+  - 112
+  - 128
+  - 144
+  name: sink
+  validation: true
+35:
+  color:
+  - 96
+  - 207
+  - 209
+  name: lamp
+  validation: false
+36:
+  color:
+  - 227
+  - 119
+  - 194
+  name: bathtub
+  validation: true
+37:
+  color:
+  - 213
+  - 92
+  - 176
+  name: bag
+  validation: false
+38:
+  color:
+  - 94
+  - 106
+  - 211
+  name: otherstructure
+  validation: false
+39:
+  color:
+  - 82
+  - 84
+  - 163
+  name: otherfurniture
+  validation: true
+40:
+  color:
+  - 100
+  - 85
+  - 144
+  name: otherprop
+  validation: false
