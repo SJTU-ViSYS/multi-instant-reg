@@ -4,14 +4,15 @@ This is the source code of our CVPR paper [Arxiv](https://arxiv.org/abs/2111.145
 ## Install Environment:
 `conda env create -f multiregister.yaml`
 
-## Test on synthetic dataset and real dataset (Scan2CAD)
+## Test on synthetic dataset and real dataset (Scan2CAD, ModelNet40)
 All the experimental code files are in `./synthetic&real`
 
 ### Weights
 Download the [weights](https://sjtueducn-my.sharepoint.com/:f:/g/personal/weixuantang_sjtu_edu_cn/EqN_-RBECS5FgQC8F7Ult1wBzSpUu8qj4_sfHG7u8zTikw?e=dbaL51) and put `multi_oneTomore_multi_1` and `multi_real_box_test_main_cad` directly into `./synthetic&real/snapshot`
 
 ### Datas
-The Scan2CAD dataset may need to be downloaded on [Scan2CAD](https://github.com/skanti/Scan2CAD), we would upload a processed version for testing soon.
+The Scan2CAD dataset may need to be downloaded on [Scan2CAD](https://github.com/skanti/Scan2CAD), and put `./split.json` in the dataset folder. 
+If you choose ModelNet40 for synthetic experiments, then you may download the dataset in [Data provided by Pointnet++](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) and put `./modelnet40_train.json` and `./modelnet40_test.json` into the dataset folder. 
 
 ### Install pytorch extension:
 ```
