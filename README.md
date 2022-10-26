@@ -12,7 +12,7 @@ Download the [weights](https://sjtueducn-my.sharepoint.com/:f:/g/personal/weixua
 
 ### Datas
 The Scan2CAD dataset may need to be downloaded on [Scan2CAD](https://github.com/skanti/Scan2CAD), and put `./split.json` in the dataset folder. 
-If you choose ModelNet40 for synthetic experiments, then you may download the dataset in [Data provided by Pointnet++](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) and put `./modelnet40_train.json` and `./modelnet40_test.json` into the dataset folder. 
+If you choose ModelNet40 for synthetic experiments, then you may download the dataset in [Data provided by Pointnet++](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) and put `./modelnet40_train.json`,`./modelnet40_test.json` and `modelnet40_classnum2label.json` into the dataset folder. 
 
 ### Install pytorch extension:
 ```
